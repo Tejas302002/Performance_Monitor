@@ -1,4 +1,3 @@
-// code for the performance monitor
 #include <iostream>
 #include <chrono>
 #include <Windows.h>
